@@ -14,7 +14,6 @@ const SearchScreen = () => {
         })
     }
 
-    console.log(results)
     return (
         // This flex allow me to scroll from top to bottom
         //  A lot of styling issues can be solved by adding flex 1 to the parent View
